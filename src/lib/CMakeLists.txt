@@ -1,0 +1,12 @@
+add_library(
+	rgb-led-lib
+	STATIC
+	leds.cpp
+	path.c
+	file.c
+)
+target_link_libraries(
+	rgb-led-lib
+	jsoncpp
+	bsd
+)

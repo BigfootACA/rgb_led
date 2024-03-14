@@ -1,0 +1,50 @@
+<svg width="650" height="300" xmlns="http://www.w3.org/2000/svg">
+  <!--左肩键-->
+  <path d="M42 42 Q32 42 36 36 Q52 8 125 10 L125 18" style="fill:none;stroke:black;stroke-width:1"/>
+  <!--左外框-->
+  <path d="M328 17 L100 18 Q56 19 38 48 Q34 47 33 50 Q5 170 40 261 Q58 283 100 283 L328 283" style="fill:none;stroke:black;stroke-width:1"/>
+
+  <!--右肩键-->
+  <path d="M613 42 Q623 44 620 38 Q600 7 529 11 L529 18" style="fill:none;stroke:black;stroke-width:1"/>
+  <!--右外框-->
+  <path d="M328 17 L562 18 Q598 19 618 48 Q623 48 623 50 Q650 190 616 261 Q600 283 554 283 L328 283" style="fill:none;stroke:black;stroke-width:1"/>
+
+  <!--屏幕外框-->
+  <path d="M130 38 L525 38 L525 259 L130 259 L130 38" style="fill:none;stroke:black;stroke-width:1"/>
+  <!--屏幕内框-->
+  <path d="M148 48 L506 48 L506 249 L149 249 L148 48" style="fill:none;stroke:black;stroke-width:1"/>
+
+  <!--左摇杆-->
+  <circle r="18" cx="80" cy="90" stroke="black" fill="none" />
+  <circle r="28" cx="80" cy="90" stroke="black" fill="none" />
+
+  <!--右摇杆-->
+  <circle r="18" cx="575" cy="175" stroke="black" fill="none" />
+  <circle r="28" cx="575" cy="175" stroke="black" fill="none" />
+
+  <!--左上停止按钮-->
+  <path d="M96 39 l24 0 l-6 11 l-24 0 l6 -11" style="fill:none;stroke:black;stroke-width:1"/>
+  <!--左下主页按钮-->
+  <path d="M91 223 l24 0 l6 11 l-24 0 l-6 -11" style="fill:none;stroke:black;stroke-width:1"/>
+  <!--右上继续按钮-->
+  <path d="M536 39 l24 0 l6 11 l-24 0 l-6 -11" style="fill:none;stroke:black;stroke-width:1"/>
+  <!--右下返回按钮-->
+  <path d="M542 223 l24 0 l-6 11 l-24 0 l6 -11" style="fill:none;stroke:black;stroke-width:1"/>
+
+  <!--右X按钮-->
+  <circle r="11" cx="576" cy="67" stroke="black" fill="none" />
+  <!--右Y按钮-->
+  <circle r="11" cx="551" cy="91" stroke="black" fill="none" />
+  <!--右A按钮-->
+  <circle r="11" cx="600" cy="91" stroke="black" fill="none" />
+  <!--右B按钮-->
+  <circle r="11" cx="576" cy="116" stroke="black" fill="none" />
+
+  <!--左方向键-->
+  <path d="M70 150 l20 0 l0 17 l17 0 l0 20 l-17 0 l0 17 l-20 0 l0 -17 l-17 0 l0 -20 l17 0 l0 -17" style="fill:none;stroke:black;stroke-width:1"/>
+
+  <!--左音响-->
+  <path d="M68 248 l7 12 m0 -12 l7 12 m0 -12 l7 12 m0 -12 l7 12 m0 -12 l7 12" style="fill:none;stroke:black;stroke-width:2"/>
+  <!--右音响-->
+  <path d="M587 248 l-7 12 m0 -12 l-7 12 m0 -12 l-7 12 m0 -12 l-7 12 m0 -12 l-7 12" style="fill:none;stroke:black;stroke-width:2"/>
+</svg>

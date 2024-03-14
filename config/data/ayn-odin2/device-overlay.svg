@@ -1,0 +1,6 @@
+<svg width="650" height="300" xmlns="http://www.w3.org/2000/svg">
+  <circle r="28" cx="80" cy="90" fill="{color-left-joystick}" />
+  <circle r="28" cx="575" cy="175" fill="{color-right-joystick}" />
+  <path d="M33 50 Q5 170 40 261" style="fill:none;stroke:{color-left-side};stroke-width:10"/>
+  <path d="M623 50 Q650 190 616 261" style="fill:none;stroke:{color-right-side};stroke-width:10"/>
+</svg>

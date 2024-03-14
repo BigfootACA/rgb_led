@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=AYN Odin 2 RGB
+Comment=Set RGB LEDs color
+Exec=rgb-led /usr/share/rgb-led/ayn-odin2/ayn-odin2.json
+Terminal=false
+Type=Application
+Categories=System;
+Keywords=System;Utility;
+Icon=ayn-odin2

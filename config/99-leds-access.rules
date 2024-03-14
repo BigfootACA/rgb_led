@@ -1,0 +1,2 @@
+SUBSYSTEM=="leds", RUN+="/bin/sh -c 'chmod -f 0666 /sys/%p/brightness;true'"
+SUBSYSTEM=="leds", RUN+="/bin/sh -c 'chmod -f 0666 /sys/%p/multi_intensity;true'"

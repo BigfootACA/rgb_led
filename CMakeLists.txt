@@ -1,0 +1,7 @@
+cmake_minimum_required(VERSION 3.27)
+project(rgb_led)
+set(CMAKE_CXX_STANDARD 17)
+set(CMAKE_INSTALL_PREFIX "/usr")
+include_directories(include)
+add_subdirectory(src)
+add_subdirectory(config)
